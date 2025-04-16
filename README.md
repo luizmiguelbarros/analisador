@@ -7,6 +7,9 @@ O objetivo é extrair o áudio de um vídeo, transcrevê-lo e classificar o tipo
 
 - Entrada de link do YouTube
 - Extração do áudio com `yt_dlp`
+
+## Futuras implementações 
+
 - Transcrição do áudio com `Whisper` (OpenAI)
 - Classificação básica do tipo de conteúdo
 - Saída exibida no terminal (VSCode)
